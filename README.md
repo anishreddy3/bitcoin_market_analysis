@@ -20,3 +20,5 @@ All the following libraries are needed to implement this project:
 
 
 ### Project Motivation <a name = "motivation"></a>
+
+The goal of this project is to understand how the bitcoin market has evolved over the last few years and key factors affecting its volatility.
