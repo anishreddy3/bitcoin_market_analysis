@@ -22,3 +22,11 @@ All the following libraries are needed to implement this project:
 ### Project Motivation <a name = "motivation"></a>
 
 The goal of this project is to understand how the bitcoin market has evolved over the last few years and key factors affecting its volatility.
+
+
+
+### Files Description <a name = "description"></a>
+
+**datasets/** : This directory contains two files about the coin market cap for years 2017 and 2018.
+
+**notebook.ipynb** : This notebook contains all the preprocessing, EDA and our analysis to find answers to intriguing questions.
